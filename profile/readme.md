@@ -12,7 +12,8 @@ All content belongs to fantomix game, sparklab, @berto-dev, and @deveet-technolo
 - <b>Note:</b> This is a private lab of sparklab and deveet-technologies.
 - <b>Explore:</b> Check out all projects to discover their details.
 - <b>Docs:</b> Find licenses and references in each repository. We don't take responsibility for the displayed material.
-- <b>Non-Dev:</b> You're in a private space protected by laws and copyright. Contact your main for more info. No current plans are open for contribution, but you can always message a contributor.
+- <b>Non-Dev:</b> You're in a private space protected by laws and copyright. Contact your main for more info.
+- <b>Contrib:</b> No current plans are open for contribution, but you can always message a contributor.
 
 
 ---
