@@ -42,4 +42,4 @@ Assets Links:
 
 ---
 
-<span>Credits: </span> <b><a href="https://github.com/berto-dev">github @Deveet-Technologies</a> / <a href="https://deveet.com">https://deveet.com</a> and Alberto Mararangelo <b><a href="https://github.com/berto-dev">github @berto-dev</a> / <a href="https://berto.dev">https://berto.dev</a></b>
+<span>Credits: </span> <b><a href="">@sparklab</a></b> ~ <b><a href="https://github.com/berto-dev">github @Deveet-Technologies</a> ~ Alberto Mararangelo <b><a href="https://github.com/berto-dev">github @berto-dev</a> / <a href="https://berto.dev">https://berto.dev</a></b>
