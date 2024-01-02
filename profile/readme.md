@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/fantomix-hub/.github/main/banner.webp">
+<img src="https://raw.githubusercontent.com/fantomix-hub/.github/main/COLLECTION.BANNER.png">
 
 ---
 
