@@ -35,7 +35,7 @@ Open / Public:
 Assets Links:
 
   - Backend:<br>
-    - [Platform-APIs](https://github.com/fantomix-hub/platform-apis)<br>Server Side Complete Platform APIs<br>
+    - [Platform-APIs](https://github.com/fantomix-hub/backend.platform.apis)<br>Server Side Complete Platform APIs<br>
 
   - Frontend:
     - [...]()<br>...<br>
