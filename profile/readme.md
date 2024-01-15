@@ -38,7 +38,7 @@ Assets Links:
     - [Platform-APIs](https://github.com/fantomix-hub/backend.platform.apis)<br>Server Side Complete Platform APIs<br>
 
   - Frontend:
-    - [Platform-client-side](https://github.com/fantomix-hub/frontend)<br>...<br>
+    - [Platform-client-side](https://github.com/fantomix-hub/frontend)<br>Vite React front admin/custom side<br>
 
 ---
 
