@@ -35,7 +35,10 @@ Open / Public:
 Assets Links:
 
   - Backend:<br>
-    - [Platform-APIs](https://github.com/fantomix-hub/backend.platform.apis)<br>Server Side Complete Platform APIs<br>
+    - [platform-Database:development](https://github.com/fantomix-hub/platform-database/tree/development)
+    - [Platform-Database:stable](https://github.com/fantomix-hub/platform-database)<br><br>
+    - [Platform-APIs:development](https://github.com/fantomix-hub/backend.platform.apis/tree/development)
+    - [Platform-APIs:stable](https://github.com/fantomix-hub/backend.platform.apis)<br><br>
 
   - Frontend:
     - [Platform-client-side](https://github.com/fantomix-hub/frontend)<br>Vite React front admin/customers side<br>
