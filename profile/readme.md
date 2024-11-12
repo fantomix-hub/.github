@@ -27,10 +27,11 @@ All content belongs to fantomix game, sparklab, @berto-dev, and @deveet-technolo
 ### Project List:
 
 Inner Links:
-  - [...]()
+  - [Task-list](https://github.com/fantomix-hub/.notes/blob/main/tasklist.md)
+  - [Notes](https://github.com/fantomix-hub/.notes/tree/main)
 
 Open / Public:
-  - [...]()
+  - [Fantomix WEB](https://fantomix.io/)
 
 Assets Links:
 
